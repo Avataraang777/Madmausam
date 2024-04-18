@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Madmausam/static/css/main.16896cea.css",
+    "main.js": "/Madmausam/static/js/main.5bd05201.js",
+    "static/js/453.01da314b.chunk.js": "/Madmausam/static/js/453.01da314b.chunk.js",
+    "index.html": "/Madmausam/index.html",
+    "main.16896cea.css.map": "/Madmausam/static/css/main.16896cea.css.map",
+    "main.5bd05201.js.map": "/Madmausam/static/js/main.5bd05201.js.map",
+    "453.01da314b.chunk.js.map": "/Madmausam/static/js/453.01da314b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16896cea.css",
+    "static/js/main.5bd05201.js"
+  ]
+}
